@@ -1,5 +1,5 @@
 # python
-Script
+# Script
 #!/usr/bin/python 
    
 # An integer assignment 
