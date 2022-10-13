@@ -14,3 +14,8 @@ name = "John"
 print(age) 
 print(salary) 
 print(name) 
+
+
+https://docs.python-guide.org/starting/install3/osx/
+
+Link 
